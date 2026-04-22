@@ -31,10 +31,10 @@ The feature directly addresses one of the most consistent findings from fourteen
 
 Clone the repository and run:
 
-'''
+```
 npm install
 npm run dev
-'''
+```
 
 The development server will start at `http://localhost:5173` (or the next available port). Open the URL in a modern browser to view the prototype.
 
