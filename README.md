@@ -89,6 +89,8 @@ These scope choices are discussed in greater depth in the Implementation and Con
 ---
 
 ## Project Structure
+
+```
 src/
 ├── App.tsx                    Main app component, state management, view toggle
 ├── types.ts                   TypeScript type definitions
@@ -100,6 +102,7 @@ src/
 │   ├── poster/                Screens for the Poster view
 │   └── subject/               Screens for the Subject view
 └── index.css                  Global styles and Tailwind imports
+```
 
 Each component has a single clear responsibility and is designed to be readable without extensive commentary.
 
